@@ -1,0 +1,145 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{papernot2017practical}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=58ca864d11bbe53214716bb8177beab9}{%
+           family={Papernot},
+           familyi={P\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d011e9ddf088732101fe34c710b24617}{%
+           family={McDaniel},
+           familyi={M\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5d2585c11210cf1d4512e6e0a03ec315}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=940ca4c2de6bee5757bbfe47cbff31bb}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Somesh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3bd960dfe6775ff38a41f50ef8c20e1e}{%
+           family={Celik},
+           familyi={C\bibinitperiod},
+           given={Z.\bibnamedelimi Berkay},
+           giveni={Z\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=b91873cac919469343e271d452b726b3}{%
+           family={Swami},
+           familyi={S\bibinitperiod},
+           given={Ananthram},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Abu Dhabi, United Arab Emirates}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{9085ed4e8c2d74ca7918f23e1db31d8c}
+      \strng{fullhash}{f9e2c6ec160c7b5c2d8163303f382f1f}
+      \strng{bibnamehash}{9085ed4e8c2d74ca7918f23e1db31d8c}
+      \strng{authorbibnamehash}{9085ed4e8c2d74ca7918f23e1db31d8c}
+      \strng{authornamehash}{9085ed4e8c2d74ca7918f23e1db31d8c}
+      \strng{authorfullhash}{f9e2c6ec160c7b5c2d8163303f382f1f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 2017 ACM on Asia Conference on Computer and Communications Security}
+      \field{isbn}{9781450349444}
+      \field{series}{ASIA CCS '17}
+      \field{title}{Practical Black-Box Attacks against Machine Learning}
+      \field{year}{2017}
+      \field{pages}{506\bibrangedash 519}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1145/3052973.3053009
+      \endverb
+      \keyw{machine learning,adversarial machine learning,black-box attack}
+    \endentry
+    \entry{goodfellow2017attacking}{online}{}
+      \name{author}{6}{}{%
+        {{hash=5d2585c11210cf1d4512e6e0a03ec315}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=58ca864d11bbe53214716bb8177beab9}{%
+           family={Papernot},
+           familyi={P\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=082c493c7b8bb6bf9cb44483885ca5fa}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Sandy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6e37f983fefff5b0043d3798363aef39}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Rocky},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e28d4ee199593959d8c29980a64f1974}{%
+           family={Abbeel},
+           familyi={A\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1480c861b1a73e1d1de1b227e985b179}{%
+           family={Clark},
+           familyi={C\bibinitperiod},
+           given={Jack},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{d17e6557c5836d2d978179999ea1037f}
+      \strng{fullhash}{2feb3040835520b9fa67caae4f75ef2e}
+      \strng{bibnamehash}{d17e6557c5836d2d978179999ea1037f}
+      \strng{authorbibnamehash}{d17e6557c5836d2d978179999ea1037f}
+      \strng{authornamehash}{d17e6557c5836d2d978179999ea1037f}
+      \strng{authorfullhash}{2feb3040835520b9fa67caae4f75ef2e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{month}{2}
+      \field{title}{Attacking Machine Learning with Adversarial Examples}
+      \field{urlday}{2}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://openai.com/blog/adversarial-example-research/
+      \endverb
+      \verb{url}
+      \verb https://openai.com/blog/adversarial-example-research/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
