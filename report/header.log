@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.9.12)  26 SEP 2022 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.10.25)  25 OCT 2023 15:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **header.tex
 (./header.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-15>
 
 ! LaTeX Error: \usepackage before \documentclass.
 
@@ -378,7 +378,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 1 in font nullfont!
 Missing character: There is no 1 in font nullfont!
 
-! LaTeX Error: Command \guillemotleft unavailable in encoding .
+! LaTeX Error: Command \guillemetleft unavailable in encoding .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -405,7 +405,7 @@ or  <return>  to continue without it.
 
 Missing character: There is no 1 in font nullfont!
 
-! LaTeX Error: Command \guillemotright unavailable in encoding .
+! LaTeX Error: Command \guillemetright unavailable in encoding .
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1859,11 +1859,11 @@ Overfull \hbox (75.298pt too wide) in paragraph at lines 67--115
 
  
 Here is how much of TeX's memory you used:
- 78 strings out of 483183
- 921 string characters out of 5966292
- 238602 words of memory out of 5000000
- 15192 multiletter control sequences out of 15000+600000
- 532841 words of font info for 26 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 18i,4n,16p,534b,93s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 86 strings out of 479865
+ 1031 string characters out of 5885327
+ 301534 words of memory out of 5000000
+ 18400 multiletter control sequences out of 15000+600000
+ 469762 words of font info for 30 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 23i,4n,32p,534b,95s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
