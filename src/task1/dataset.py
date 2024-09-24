@@ -22,7 +22,7 @@ DEFAULT_ROOT = './data/symbols'
 
 class StrangeSymbols(torch.utils.data.Dataset):
     urls = [
-        'https://seafile.rlp.net/f/b4e03d983fea4e5790b0/?dl=1',
+        'https://seafile.rlp.net/f/469feaeddb124ffebf5a/?dl=1',
     ]
 
     def __init__(self, 
