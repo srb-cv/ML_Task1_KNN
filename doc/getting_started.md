@@ -18,7 +18,7 @@ A working python installation of version 3.10 is required to solve the tasks, as
 2. Activate the new environment:
 
    ```shell
-   $ source venv/bin/activate
+   $ source ML_task/bin/activate
    ```
 
 3. Install any required packages. For the first task those are [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/) and [Pytorch](https://pytorch.org/). The first two can be installed by the command
